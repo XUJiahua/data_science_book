@@ -17,7 +17,9 @@ BI产品的功能不外乎如下：
 #### 商业BI产品
 
 1. Tableau
-2. PowerBI \(Windows Only\)
+   1. 太贵。
+2. PowerBI 
+   1. 软件只有Windows版。用习惯了Mac，回不去Windows了。
 
 #### 开源BI产品
 
