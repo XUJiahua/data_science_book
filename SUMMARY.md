@@ -1,7 +1,12 @@
 # Table of contents
 
 * [data\_science\_book](README.md)
-* [Untitled](untitled.md)
+
+## 数据收集 <a id="shu-ju-shou-ji-1"></a>
+
+* [数据收集](shu-ju-shou-ji-1/shu-ju-shou-ji.md)
+* [前端埋点（自有产品）](shu-ju-shou-ji-1/qian-duan-mai-dian-zi-you-chan-pin.md)
+* [互联网爬虫](shu-ju-shou-ji-1/hu-lian-wang-pa-chong.md)
 
 ## 数据分析 <a id="data_analysis"></a>
 
@@ -9,7 +14,7 @@
 * [探索式数据分析](data_analysis/tan-suo-shi-shu-ju-fen-xi.md)
 * [数据清洗](data_analysis/shu-ju-qing-xi.md)
 * [维度分析模型](data_analysis/wei-du-fen-xi-mo-xing.md)
-* [数据可视化](data_analysis/shu-ju-ke-shi-hua.md)
+* [数据可视化（BI）](data_analysis/data_visualization.md)
 
 ## 电商数据分析 <a id="ec_data_analysis"></a>
 
