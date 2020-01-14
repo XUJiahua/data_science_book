@@ -7,6 +7,8 @@
 
 * [数理统计基础](data_analysis/untitled.md)
 * [探索式数据分析](data_analysis/tan-suo-shi-shu-ju-fen-xi.md)
+* [数据清洗](data_analysis/shu-ju-qing-xi.md)
+* [维度分析模型](data_analysis/wei-du-fen-xi-mo-xing.md)
 
 ## 电商数据分析 <a id="ec_data_analysis"></a>
 
