@@ -4,6 +4,14 @@ description: statistics
 
 # 数理统计基础
 
+数据类型
+
+numeric \(int, float\)
+
+category \(string\)
+
+
+
 均值（mean）
 
 众数（mode）
