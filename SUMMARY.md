@@ -5,5 +5,6 @@
 
 ## 数据分析
 
-* [Untitled](shu-ju-fen-xi/untitled.md)
+* [数理统计基础](shu-ju-fen-xi/untitled.md)
+* [探索式数据分析](shu-ju-fen-xi/tan-suo-shi-shu-ju-fen-xi.md)
 
