@@ -28,9 +28,9 @@ BI产品的功能不外乎如下：
 2. Metabase
    1. 缺点：一维数组直方图显示的需求，无法满足（ref：[https://github.com/metabase/metabase/issues/798](https://github.com/metabase/metabase/issues/798)）。workaround：手写SQL分bin，成为二维数据，套用二维数据图表。
 
+![Superset&#x622A;&#x56FE;](../.gitbook/assets/image-20191017193416747.png)
 
 
-![image-20191017193416747](/Users/jiahua/Nustore%20Files/我的坚果云/journal_cil/2019/10/2019-10-20.assets/image-20191017193416747.png)
 
 ### 开发工具
 
