@@ -16,6 +16,7 @@
 * [数据仓库](data_analysis/shu-ju-cang-ku.md)
 * [维度分析模型](data_analysis/wei-du-fen-xi-mo-xing.md)
 * [数据可视化（BI）](data_analysis/data_visualization.md)
+* [数据管理平台](data_analysis/shu-ju-guan-li-ping-tai.md)
 
 ## 电商数据分析 <a id="ec_data_analysis"></a>
 
@@ -35,4 +36,7 @@
 
 * [时间序列分析](machine_learning/shi-jian-xu-lie-fen-xi.md)
 * [深度学习](machine_learning/untitled.md)
+* [推荐系统](machine_learning/tui-jian-xi-tong.md)
+* [Spark SQL](spark-sql.md)
+* [常用数据库优劣势分析](chang-yong-shu-ju-ku-you-lie-shi-fen-xi.md)
 

@@ -24,3 +24,13 @@ category \(string\)
 
 标准差
 
+
+
+pandas-profiling/ pandas-summary 可以理解为pandas.describe方法的补充和扩展。
+
+{% embed url="https://github.com/pandas-profiling/pandas-profiling" %}
+
+{% embed url="https://github.com/mouradmourafiq/pandas-summary" %}
+
+
+
