@@ -1,14 +1,29 @@
 # 数据可视化
 
-### 商业BI产品
+## 工具
+
+### BI产品
+
+BI产品的功能不外乎如下：
+
+1. 图表展示
+2. Dashboard，图表组合
+3. SQL Editor
+
+#### 商业BI产品
 
 1. Tableau
 2. PowerBI \(Windows Only\)
 
-### 开源BI产品
+#### 开源BI产品
 
-1. Superset
-2. Metabase
+\#\#\#\# Superset
+
+\#\#\#\# Superset
+
+
+
+1. Metabase
 
 ### 开发工具
 
