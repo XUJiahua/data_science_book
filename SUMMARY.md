@@ -29,6 +29,7 @@
 
 * [RFM模型](analysis_model/rfm-mo-xing.md)
 * [AARRR模型](analysis_model/aarrr-mo-xing.md)
+* [社交分析](analysis_model/she-jiao-fen-xi.md)
 
 ## 机器学习 <a id="machine_learning"></a>
 
