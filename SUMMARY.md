@@ -13,6 +13,7 @@
 * [数理统计基础](data_analysis/untitled.md)
 * [探索式数据分析](data_analysis/tan-suo-shi-shu-ju-fen-xi.md)
 * [数据清洗](data_analysis/shu-ju-qing-xi.md)
+* [数据仓库](data_analysis/shu-ju-cang-ku.md)
 * [维度分析模型](data_analysis/wei-du-fen-xi-mo-xing.md)
 * [数据可视化（BI）](data_analysis/data_visualization.md)
 
@@ -30,5 +31,6 @@
 
 ## 机器学习 <a id="machine_learning"></a>
 
+* [时间序列分析](machine_learning/shi-jian-xu-lie-fen-xi.md)
 * [深度学习](machine_learning/untitled.md)
 
