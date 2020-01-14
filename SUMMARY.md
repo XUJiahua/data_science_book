@@ -11,6 +11,12 @@
 ## 电商数据分析 <a id="ec_data_analysis"></a>
 
 * [电商数据分析](ec_data_analysis/dian-shang-shu-ju-fen-xi.md)
-* [用户分析](ec_data_analysis/yong-hu-fen-xi.md)
 * [订单（交易）分析](ec_data_analysis/ding-dan-jiao-yi-fen-xi.md)
+* [用户分析](ec_data_analysis/yong-hu-fen-xi.md)
+* [商品分析](ec_data_analysis/shang-pin-fen-xi.md)
+
+## 分析模型
+
+* [RFM模型](fen-xi-mo-xing/rfm-mo-xing.md)
+* [AARRR模型](fen-xi-mo-xing/aarrr-mo-xing.md)
 
