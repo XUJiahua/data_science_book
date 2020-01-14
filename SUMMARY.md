@@ -21,8 +21,9 @@
 
 * [电商数据分析](ec_data_analysis/dian-shang-shu-ju-fen-xi.md)
 * [订单（交易）分析](ec_data_analysis/ding-dan-jiao-yi-fen-xi.md)
-* [用户分析](ec_data_analysis/yong-hu-fen-xi.md)
 * [商品分析](ec_data_analysis/shang-pin-fen-xi.md)
+* [用户分析](ec_data_analysis/yong-hu-fen-xi.md)
+* [用户画像（标签系统）](ec_data_analysis/yong-hu-hua-xiang-biao-qian-xi-tong.md)
 
 ## 分析模型 <a id="analysis_model"></a>
 
