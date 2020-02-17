@@ -45,11 +45,11 @@ TopK排序。
 
 协同过滤，只使用ID（用户ID、商品ID），不使用其他属性的推荐算法。简单。
 
-#### user-based
+#### memory based: user-based
 
-#### item-based
+#### memory based: item-based
 
-#### matrix factorization
+#### model based: matrix factorization
 
 矩阵分解有两种实现方式，SGD（随机梯度下降），ALS（交替最小二乘）
 
@@ -127,6 +127,10 @@ TopK排序。
 
 
 排序阶段LR，LR+GBDT，FM，wide and deep，deepFM
+
+### Factorization Machine
+
+没有用户、物品特征就退化为了Matrix Factorization。
 
 ## 工程
 
